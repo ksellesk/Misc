@@ -45,6 +45,7 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 "
 
+set cc=80
 
 set encoding=utf-8
 
